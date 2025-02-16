@@ -32,7 +32,7 @@ Backend: Golang (Gin Framework)
 
 Frontend: React
 
-Database: MySQL, MongoDB
+Database: PostgreSQL, MongoDB
 
 Authentication: JWT (JSON Web Tokens), OAuth 2.0
 
@@ -40,14 +40,15 @@ Real-time Features: WebSocket
 
 Messaging & Event Streaming: NATS Streaming
 
-Payment Integration: VNPay
+Payment Integration: VNPay, Stripe
 
-Cloud Storage: Cloudinary
+Cloud Storage: AWS S3
+
 📦 Installation
 
 Clone the repository:
 
-  git clone https://github.com/0Hoag/EZBuy.git
+  git clone https://github.com/your-repo/EZBuy.git
   cd ezbuy
 
 Backend Setup:
@@ -61,3 +62,22 @@ Frontend Setup:
   cd frontend
   npm install
   npm start
+
+📸 Screenshots
+
+Home Page:
+
+Product Details:
+
+Shopping Cart:
+
+Checkout:
+
+Order Summary:
+
+Admin Dashboard:
+
+📬 Contact
+
+For inquiries or contributions, please contact us at your-email@example.com.
+
