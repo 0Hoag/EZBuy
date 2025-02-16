@@ -47,7 +47,7 @@ Cloud Storage: Cloudinary
 
 Clone the repository:
 
-  git clone https://github.com/your-repo/EZBuy.git
+  git clone https://github.com/0Hoag/EZBuy.git
   cd ezbuy
 
 Backend Setup:
@@ -61,22 +61,3 @@ Frontend Setup:
   cd frontend
   npm install
   npm start
-
-📸 Screenshots
-
-Home Page:
-
-Product Details:
-
-Shopping Cart:
-
-Checkout:
-
-Order Summary:
-
-Admin Dashboard:
-
-📬 Contact
-
-For inquiries or contributions, please contact us at your-email@example.com.
-
